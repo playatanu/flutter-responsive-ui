@@ -128,7 +128,7 @@ class Tab extends StatelessWidget {
                     width: double.infinity,
                     child: Center(
                       child: Text(
-                        'Phone',
+                        'WEB',
                         style: TextStyle(fontSize: fsize),
                       ),
                     ),
